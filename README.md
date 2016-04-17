@@ -6,5 +6,4 @@
   Laravel Collective
 
 # Credits
-
-  <a href="web-apps.ninja/director-free-responsive-admin-template"> Web Apps Ninja </a>
+  web-apps.ninja/director-free-responsive-admin-template
